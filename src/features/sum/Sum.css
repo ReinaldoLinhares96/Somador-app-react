@@ -1,0 +1,33 @@
+.NumberInput input{
+    width:300px;
+    height: 80px;
+    font-size: 50px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #1e90ff;
+}
+
+.Inputs label{
+    margin: 30px;
+    display: inline-block;
+    padding: 20px;
+}
+
+.InputResult input{
+    width:300px;
+    height: 80px;
+    padding: 0%;
+    border: #000080;
+    font-size: 50px;
+    color: #ffffff;
+    text-align: center;
+    background-color: #000080;
+}
+
+
+.Sum{
+    text-align: center;
+    background-color: #000080;
+    padding-bottom: 300px;
+    
+}
